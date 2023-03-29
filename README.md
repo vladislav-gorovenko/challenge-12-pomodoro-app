@@ -29,12 +29,12 @@ Users should be able to:
 ### Screenshot
 
 ![desktop view](./src/assets/screnshot-1.png)
-![mobile view](./src/assets/screnshot-1.png)
+![mobile view](./src/assets/screnshot-2.png)
 
 ### Links
 
-- Solution URL: [GitHub]()
-- Live Site URL: [Netlify]()
+- Solution URL: [GitHub](https://github.com/martinideniam/pomodoro-app)
+- Live Site URL: [Netlify](https://legendary-lamington-4f172e.netlify.app)
 
 ## My process
 
