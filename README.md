@@ -1,65 +1,41 @@
-# Frontend Mentor - Pomodoro app solution
+# Pomodoro Web App
 
-This is a solution to the [Pomodoro app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/pomodoro-app-KBFnycJ6G). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+Welcome to my Pomodoro Web App repository. This project is a solution to the Pomodoro web app challenge on [Frontend Mentor](https://www.frontendmentor.io).
 
-## Table of contents
+## The Challenge
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-
-## Overview
-
-### The challenge
-
-Users should be able to:
+The challenge involved building an application that allowed users to:
 
 - Set a pomodoro timer and short & long break timers
 - Customize how long each timer runs for
 - See a circular progress bar that updates every minute and represents how far through their timer they are
 - Customize the appearance of the app with the ability to set preferences for colors and fonts
 
-### Screenshot
+## Technologies Used
+
+This project was built using the following technologies:
+
+- React 
+
+## Live
+
+You can check out the live version of the project here -> [https://legendary-lamington-4f172e.netlify.app](https://legendary-lamington-4f172e.netlify.app).
+
+## Screenshots
 
 ![desktop view](./src/assets/screnshot-1.png)
 ![mobile view](./src/assets/screnshot-2.png)
 
-### Links
+## Contact Me
 
-- Solution URL: [GitHub](https://github.com/martinideniam/pomodoro-app)
-- Live Site URL: [Netlify](https://legendary-lamington-4f172e.netlify.app)
+For any inquiries or feedback, feel free to get in touch with me through:
 
-## My process
+- [GitHub](https://github.com/vladislav-gorovenko)
+- [LinkedIn](https://www.linkedin.com/in/vladislavgorovenko/)
+- [FrontendMentor](https://www.frontendmentor.io/profile/martinideniam/)
+- [Telegram](https://t.me/vlad_webdev_iam)
 
-### Built with
+## Feedback
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
+If you have any feedback or suggestions, please open an issue here on [GitHub](https://github.com/vladislav-gorovenko/challenge-12-pomodoro-app/issues).
 
-### What I learned
-
-I practiced concepts learned in module 11 of Scrimba "The Frontend Developer Career Path", such as useRef, useState, useEffect, props etc.
-
-### Continued development
-
-I want to add some animations in the near future, using GSAP.
-
-### Useful resources
-
-- [Module 11 of Scrimba](https://scrimba.com/learn/frontend) - This helped me to grasp the basics of React.
-
-## Author
-
-- Frontend Mentor - [@martinideniam](https://www.frontendmentor.io/profile/martinideniam)
-- Twitter - [@vlad_webdev](https://twitter.com/vlad_webdev)
