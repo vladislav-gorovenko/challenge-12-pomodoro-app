@@ -1,3 +1,7 @@
+## Live
+
+You can check out the live version of the project here -> [https://legendary-lamington-4f172e.netlify.app](https://legendary-lamington-4f172e.netlify.app).
+
 # Pomodoro Web App
 
 Welcome to my Pomodoro Web App repository. This project is a solution to the Pomodoro web app challenge on [Frontend Mentor](https://www.frontendmentor.io).
@@ -17,10 +21,6 @@ This project was built using the following technologies:
 
 - React 
 
-## Live
-
-You can check out the live version of the project here -> [https://legendary-lamington-4f172e.netlify.app](https://legendary-lamington-4f172e.netlify.app).
-
 ## Screenshots
 
 ![desktop view](./src/assets/screnshot-1.png)
@@ -31,11 +31,10 @@ You can check out the live version of the project here -> [https://legendary-lam
 For any inquiries or feedback, feel free to get in touch with me through:
 
 - [GitHub](https://github.com/vladislav-gorovenko)
-- [LinkedIn](https://www.linkedin.com/in/vladislavgorovenko/)
+- [LinkedIn](https://www.linkedin.com/in/vladislav-gorovenko-web/)
 - [FrontendMentor](https://www.frontendmentor.io/profile/martinideniam/)
 - [Telegram](https://t.me/vlad_webdev_iam)
 
 ## Feedback
 
 If you have any feedback or suggestions, please open an issue here on [GitHub](https://github.com/vladislav-gorovenko/challenge-12-pomodoro-app/issues).
-
